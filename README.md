@@ -1,4 +1,5 @@
-# telerob
+# open-source
+
 Telerob.js - Node.js based bot , with comfortable UI , Bad words blocker , image uploader , high response speed , GeoIP Feature
 
 just put a bot's token in "index.js" & enjoy!
