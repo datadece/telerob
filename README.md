@@ -15,3 +15,5 @@ How to use:
 2. GeoIP :type "IP put.your.ip.here" in the chat
 
 Thats it!
+
+(Yes, I used curses, because for some reason, "swear"/s was an illegal string (I don't know why))
